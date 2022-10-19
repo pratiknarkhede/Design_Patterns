@@ -1,4 +1,4 @@
-package com.pratik.structural;
+package com.pratik.factory;
 
 public abstract class Computer {
 	public abstract String getRAM();

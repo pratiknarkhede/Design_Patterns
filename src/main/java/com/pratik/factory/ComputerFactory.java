@@ -1,4 +1,4 @@
-package com.pratik.structural;
+package com.pratik.factory;
 
 public class ComputerFactory {
 	/* based on the input parameter, different subclass is created and returned */

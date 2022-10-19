@@ -1,4 +1,4 @@
-package com.pratik.structural;
+package com.pratik.factory;
 
 public class Server extends Computer {
 	private String ram;
